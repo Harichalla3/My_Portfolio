@@ -200,7 +200,6 @@ span {
 .skills-container {
     display: flex;
     justify-content: center;
-    align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
 }
@@ -227,6 +226,7 @@ span {
 
 .skills-box h3 {
     font-size: 2.6rem;
+    text-align: center;
 }
 
 .skills-box p {
