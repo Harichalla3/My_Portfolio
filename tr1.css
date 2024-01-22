@@ -200,6 +200,7 @@ span {
 .skills-container {
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
 }
@@ -211,6 +212,7 @@ span {
     border-radius: 2rem;
     border: 0.3rem solid var(--bg-color);
     transition: .5s ease;
+    align-items: center;
 }
 
 .skills-container .skills-box:hover {
