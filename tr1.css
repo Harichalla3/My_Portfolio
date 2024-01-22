@@ -209,8 +209,8 @@ span {
     flex: 1 1 30rem;
     background: var(--second-bg-color);
     padding: 3rem 2rem 4rem;
-    text-align: center;
     border-radius: 2rem;
+    text-align: center;
     border: 0.3rem solid var(--bg-color);
     transition: .5s ease;
     align-items: center;
@@ -228,7 +228,6 @@ span {
 
 .skills-box h3 {
     font-size: 2.6rem;
-    text-align: center;
 }
 
 .skills-box p {
